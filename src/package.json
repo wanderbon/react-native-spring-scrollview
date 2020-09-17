@@ -20,8 +20,9 @@
   "author": "bolan9999 <shanshang130@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.3.1",
-    "react-native": "^0.50.0",
-    "lottie-react-native":"latest"
+    "react": "latset",
+    "react-native": "latset",
+    "lottie-react-native": "latest",
+    "@react-native-community/async-storage": "latset"
   }
 }
